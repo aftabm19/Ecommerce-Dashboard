@@ -1,43 +1,75 @@
-# Retail Performance & Customer Insights Dashboard
+# 🛍️ Retail Performance & Customer Insights Dashboard
 
-## 📊 Project Overview
-This project presents an interactive Power BI dashboard designed to analyze retail performance using a diversified dataset. The dashboard provides insights into product categories, customer demographics, shipping methods, seasonality, and return risks.
+## 📌 Project Overview
+This project delivers an **interactive retail performance dashboard** built with Power BI to help stakeholders understand key trends in product sales, customer behavior, shipping impact, and return risk patterns.  
+The dashboard combines SQL-driven data understanding and Power BI visualization to transform raw ecommerce data into actionable insights.
 
-## 📂 Dataset Preview
-Due to GitHub file size limitations, the full transaction dataset is not uploaded.
+---
 
-- This repository includes **banking_data_preview.xlsx**, containing the **first 100 rows** of the dataset.
-- The preview demonstrates the **data structure, column names, and data types** used for analysis.
-- The complete dataset was used locally for SQL analysis and dashboard creation.
+## 🎯 Business Problems Solved
+- Analyze **product category performance**  
+- Understand **customer demographics and purchase behavior**  
+- Explore how **shipping methods affect cost and returns**  
+- Identify **seasonal trends and high-risk segments**  
+- Support data-driven retail decisions for business growth
 
-This follows standard data-handling practices for large datasets.
+---
 
-## 🛠 Tools & Technologies
-- Power BI
-- Excel
-- SQL (for data understanding)
-- DAX
+## 🧰 Tools & Technologies Used
+- **SQL** – for data exploration and aggregations  
+- **Power BI** – data modeling, DAX measures, and dashboard creation  
+- **Excel** – dataset preview and structure understanding  
+- **DAX** – measures to calculate key business metrics
 
-## 📈 Key Insights
-- Category-wise performance comparison
-- Customer behavior analysis by age group and gender
-- Shipping method impact on cost and return rates
-- Seasonality influence on product popularity
-- Identification of high-risk return segments
+---
 
-## 📁 Files Included
-- Power BI dashboard file (.pbix)
-- Dataset used for analysis
-- Dashboard screenshots
-- Documentation
+## 📁 Dataset Preview
+Due to GitHub file size limits, the complete raw dataset is not included.  
+Instead, this repository contains `data preview.xlsx`, showing the **first 100 rows** to demonstrate the structure and types of data that the analysis was performed on.  
+This follows common practices for large data projects. :contentReference[oaicite:0]{index=0}
 
-## 🎯 Use Case
-This dashboard can help business stakeholders:
-- Identify high-performing products
-- Optimize shipping strategies
-- Reduce return risks
-- Understand customer preferences
+---
 
-## 👤 Author
-**Aftab Momin**
+## 📊 Dashboard Highlights
+Here’s what this dashboard helps you analyze:
+- 📈 **Sales Performance by Category**  
+- 👥 **Customer Insights by Age & Gender**  
+- 🚚 **Shipping Method Impact on Cost & Returns**  
+- 📅 **Seasonality Trends in Product Popularity**  
+- ⚠️ **High-Risk Return Segment Identification**
 
+Each visualization was designed to enable quick business decisions and deeper exploration.
+
+---
+
+## 📌 Key Insights (Examples)
+- Certain product categories consistently outperform others in revenue.  
+- Specific shipping types are associated with higher return rates.  
+- Customer age and gender segments show different purchasing behaviors.  
+- Monthly performance metrics highlight seasonal trends.
+
+These insights provide valuable context for business strategy and operational improvements.
+
+---
+
+## 📂 Files Included
+- **Power BI (.pbix)** – Interactive dashboard file  
+- **SQL script** – Queries used to explore/aggregate data  
+- **Dataset preview** – Sample of data structure  
+- **Screenshots & PDF** – Visual previews of dashboard outputs
+
+---
+
+## 🚀 Use Cases
+This dashboard is useful for:
+- **E-commerce managers** tracking product and category performance  
+- **Business analysts** researching customer behavior trends  
+- **Retail teams** optimizing shipping strategy  
+- **Executives** monitoring key performance indicators
+
+---
+
+## 📬 About the Author
+**Aftab Momin**  
+Data Analyst | Power BI | SQL | Excel  
+🔗 GitHub: https://github.com/aftabm19
