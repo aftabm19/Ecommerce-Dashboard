@@ -3,6 +3,15 @@
 ## 📊 Project Overview
 This project presents an interactive Power BI dashboard designed to analyze retail performance using a diversified dataset. The dashboard provides insights into product categories, customer demographics, shipping methods, seasonality, and return risks.
 
+## 📂 Dataset Preview
+Due to GitHub file size limitations, the full transaction dataset is not uploaded.
+
+- This repository includes **banking_data_preview.xlsx**, containing the **first 100 rows** of the dataset.
+- The preview demonstrates the **data structure, column names, and data types** used for analysis.
+- The complete dataset was used locally for SQL analysis and dashboard creation.
+
+This follows standard data-handling practices for large datasets.
+
 ## 🛠 Tools & Technologies
 - Power BI
 - Excel
